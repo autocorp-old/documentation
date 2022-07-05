@@ -1,3 +1,1 @@
-# documentation
-
-Autocorp.ai  | AskAva documentation
+# Autocorp.ai  | AskAva documentation
