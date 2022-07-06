@@ -1,0 +1,6 @@
+[submodule "documentation.wiki"]
+	path = wiki
+	url = https://github.com/autocorptech/documentation.wiki.git
+[submodule "github-wiki-sidebar-generator"]
+	path = github-wiki-sidebar-generator
+	url = https://github.com/autocorptech/github-wiki-sidebar-generator.git
