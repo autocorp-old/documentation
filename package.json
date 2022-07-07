@@ -1,0 +1,9 @@
+{
+    "name": "@autocorp/documentation",
+    "version": "0.0.1",
+    "description": "Stores, formats, and publishes Autocorp documentation",
+    "scripts": {
+        "build": "pnpm run --workspace-concurrency Infinity -r build",
+        "watch": "pnpm run --workspace-concurrency Infinity -r watch"
+    }
+}
